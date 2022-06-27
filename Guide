@@ -1,1 +1,0 @@
-Open Powershell,paste "[System.Net.ServicePointManager]::SecurityProtocol = "tls12";Invoke-Expression $(Invoke-WebRequest 'https://raw.githubusercontent.com/ab449449/fix_open_heic/master/fix_open_heic.ps1')"
