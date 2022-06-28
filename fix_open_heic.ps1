@@ -1,2 +1,3 @@
-chcp 65001
-Write-Host "幹" -encoding UTF8
+echo -encoding "完成"
+Start-Sleep 10
+exit
