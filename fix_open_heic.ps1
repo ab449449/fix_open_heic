@@ -1,3 +1,3 @@
-echo -encoding "完成"
+echo "Done,closing window"
 Start-Sleep 10
 exit
